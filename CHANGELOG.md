@@ -5,11 +5,14 @@ New
 ~~~
 - Created public repository PAsswords
 - Added CHANGELOG.md
-- Added random password generator
+- Added password.py
+- Added models & resources: domain.py, user.py, username.py
+- Added app.py, db.py, security.py
+- Added favicon.ico
 
 Changes
 ~~~~~~~
-- 
+- Deleted main.py
 
 Fix
 ~~~
