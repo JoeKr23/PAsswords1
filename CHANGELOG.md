@@ -5,6 +5,7 @@ New
 ~~~
 - Created public repository PAsswords
 - Added CHANGELOG.md
+- Added random password generator
 
 Changes
 ~~~~~~~
