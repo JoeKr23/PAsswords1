@@ -9,10 +9,11 @@ New
 - Added models & resources: domain.py, user.py, username.py
 - Added app.py, db.py, security.py
 - Added favicon.ico
+- Added Salting and Hashing
 
 Changes
 ~~~~~~~
-- Deleted main.py
+- 
 
 Fix
 ~~~
