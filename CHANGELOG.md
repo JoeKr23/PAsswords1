@@ -16,4 +16,4 @@ Changes
 
 Fix
 ~~~
-- 
+- Typo in username model

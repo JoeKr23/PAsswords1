@@ -14,7 +14,7 @@ class UsernameModel(db.Model):
     def __init__(self, username, password, domain_id):
         self.username = username
         self.password = password
-        self.doamin_id = domain_id
+        self.domain_id = domain_id
 
     def json(self):
         return {'username': self.username, 'password': self.password}
