@@ -1,0 +1,1 @@
+Either allow only one username per domain, or will need to use a NoSQL DB for this implementation.
